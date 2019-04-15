@@ -1,0 +1,4 @@
+﻿Opening repositories:
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Scientific_Calculator_3
+Pushing master
+Branch master does not exist. Commit changes locally and then push.
